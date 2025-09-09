@@ -1,6 +1,6 @@
-<img width="1919" height="1079" alt="Screenshot 2025-08-25 085735" src="https://github.com/user-attachments/assets/922c0156-c694-4328-b67c-4d1c7ba9a841" /><img width="1919" height="1079" alt="Screenshot 2025-08-25 085750" src="https://github.com/user-attachments/assets/1ba0101b-e20d-44ce-93c2-4940f2e7ecbb" /><img width="1919" height="1079" alt="Screenshot 2025-08-25 085735" src="https://github.com/user-attachments/assets/8972de18-ef98-4387-9de9-23416d2a1ac7" /># Ex.No: 3  Basic movements in Unity 
-### DATE:                                                                            
-### REGISTER NUMBER : 212223230221
+# Ex.No: 3  Basic movements in Unity 
+#### Name : SUDHIR KUMAR. R
+#### Reg No. : 212223230221
 ### AIM: 
  To learn the basic movements translation,scaling and rotation of game objects through code.
 ### Procedure:
@@ -53,7 +53,7 @@ public class TransformOperations : MonoBehaviour
 ```
 ### Output:
 
-
+<img width="1919" height="1079" alt="Screenshot 2025-08-25 085735" src="https://github.com/user-attachments/assets/922c0156-c694-4328-b67c-4d1c7ba9a841" /><img width="1919" height="1079" alt="Screenshot 2025-08-25 085750" src="https://github.com/user-attachments/assets/1ba0101b-e20d-44ce-93c2-4940f2e7ecbb" /><img width="1919" height="1079" alt="Screenshot 2025-08-25 085735" src="https://github.com/user-attachments/assets/8972de18-ef98-4387-9de9-23416d2a1ac7" />
 
 ### Result:
 Thus the basic movement is learned through scripting
